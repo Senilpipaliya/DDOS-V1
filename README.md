@@ -7,7 +7,4 @@ The use of this script for illegal activities, including DDoS attacks, is strict
 Disclaimer
 This script is provided "as is" without warranty of any kind, either express or implied. The user assumes all risk of use and agrees to hold the creators and contributors of this repository harmless for any damage that may result from the use of this script.
 
-Usage:
-Step 1 : git clone https://github.com/Senilpipaliya/DDOS-V1.git
-pip3 install -r requirements.txt 
-python3 DDOS-V1.py
+![Screenshot at 2023-02-06 04-42-58](https://user-images.githubusercontent.com/108170990/216835959-01e01e92-4b79-4935-8fff-6d1775f32f4e.png)
