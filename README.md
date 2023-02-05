@@ -1,3 +1,7 @@
+![389292073](https://user-images.githubusercontent.com/108170990/216836239-406c4865-88c5-4c48-9c1f-9ccf9010f1a5.jpg)
+
+
+
 DDOS Python Script
 This repository contains a simple Python script for performing Distributed Denial of Service (DDoS) attacks. The script utilizes the power of multiple systems to flood a target website with a large amount of traffic, ultimately causing the website to become unavailable to its intended users.
 
